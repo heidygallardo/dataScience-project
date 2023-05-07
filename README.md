@@ -16,4 +16,4 @@ From this project I learned that data cleaning is crucial when analyzing data.
 ## What's next for this analysis
 I look forward to expanding this analysis to consider the content of thumbnails, as well as how long the videos took to get to trending and how long they stayed there. I would also like to analyze what time is best to publish a video. 
 
-Feel free to follow my Github for an updated version of this project. 
+Feel free to follow me for future progress on this project. 
